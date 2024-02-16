@@ -1,0 +1,23 @@
+.container{
+    height: 250px;
+    width: 500px;
+    /* display: flex;
+    justify-content: space-between; */
+    background-color: antiquewhite;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.head1{
+    
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    /* margin-top: 50px; */
+}
+.droplist{
+    align-items: center;
+}
+.droplist select{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-left: 170px;
+}
